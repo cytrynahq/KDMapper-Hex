@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀Overview
+## Overview
 
 **KDMapper-Hex** allows loading a kernel driver **without placing a `.sys` file on disk**.  
 The driver is embedded directly into the executable as hexadecimal data and mapped at runtime.
