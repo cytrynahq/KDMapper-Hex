@@ -17,7 +17,6 @@ The driver is embedded directly into the executable as hexadecimal data and mapp
 - **Single executable** deployment  
 - **Standard KDMapper behavior**  
 - Driver stored as **embedded hex data**  
-- Uses **Intel driver mapping method**
 
 ---
 
